@@ -1,5 +1,5 @@
 # viaf-to-turtle
-Script for converting the Viaf dump in Turtle
+Script for converting the Viaf dump in Turtle.
 <br/>
 Assuming a one-RDF-per-line Viaf dump, the script will generate a Turtle with basic info about each person.
 <br/>
