@@ -17,14 +17,14 @@ diagrams = ["jinja2", "railroad-diagrams"]
 
 [[package]]
 name = "rdflib"
-version = "7.1.4"
+version = "7.2.1"
 description = "RDFLib is a Python library for working with RDF, a simple yet powerful language for representing information."
 optional = false
-python-versions = "<4.0.0,>=3.8.1"
+python-versions = ">=3.8.1"
 groups = ["main"]
 files = [
-    {file = "rdflib-7.1.4-py3-none-any.whl", hash = "sha256:72f4adb1990fa5241abd22ddaf36d7cafa5d91d9ff2ba13f3086d339b213d997"},
-    {file = "rdflib-7.1.4.tar.gz", hash = "sha256:fed46e24f26a788e2ab8e445f7077f00edcf95abb73bcef4b86cefa8b62dd174"},
+    {file = "rdflib-7.2.1-py3-none-any.whl", hash = "sha256:1a175bc1386a167a42fbfaba003bfa05c164a2a3ca3cb9c0c97f9c9638ca6ac2"},
+    {file = "rdflib-7.2.1.tar.gz", hash = "sha256:cf9b7fa25234e8925da8b1fb09700f8349b5f0f100e785fb4260e737308292ac"},
 ]
 
 [package.dependencies]
@@ -40,4 +40,4 @@ orjson = ["orjson (>=3.9.14,<4)"]
 [metadata]
 lock-version = "2.1"
 python-versions = "^3.11"
-content-hash = "facb8cb80ebdb4187624539ad6f928e9efe187c0980616f5e6b0570c4e440916"
+content-hash = "76f7156db45a2486c56dabf7a8135e1eb5886919a76fb56f03b2dd15c9d8ca3e"
